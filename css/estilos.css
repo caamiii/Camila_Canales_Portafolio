@@ -762,7 +762,7 @@ main {
   color: var(--amarillo);
 }
 
-.proyecto-portada__numero--verde { color: var(--verde); }
+.proyecto-portada__numero--verde { color: var(--amarillo); }
 
 /* ---------- 11. Descripción y créditos ---------- */
 .proyecto-intro__descripcion,
